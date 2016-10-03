@@ -32,5 +32,5 @@ describe RemoveDoubleBlank do
     expect(filematch(file1a, file1b)).to eq(false)
     RemoveDoubleBlank.update(file1a)
     expect(filematch(file1a, file1b)).to eq(true)
-  end  
+  end
 end

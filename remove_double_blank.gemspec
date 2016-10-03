@@ -45,4 +45,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'sandi_meter'
 
   spec.add_development_dependency 'rubocop'
+
+  spec.add_development_dependency 'codeclimate-test-reporter'
 end
