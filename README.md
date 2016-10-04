@@ -5,9 +5,11 @@
 [![Code Climate](https://codeclimate.com/github/jhsu802701/remove_double_blank/badges/gpa.svg)](https://codeclimate.com/github/jhsu802701/remove_double_blank)
 [![Test Coverage](https://codeclimate.com/github/jhsu802701/remove_double_blank/badges/coverage.svg)](https://codeclimate.com/github/jhsu802701/remove_double_blank/coverage)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/remove_double_blank`. To experiment with that code, run `bin/console` for an interactive prompt.
+## Purpose
 
-TODO: Delete this and the text above, and describe your gem
+The RemoveDoubleBlank gem reduces groups of consecutive blank lines into just one blank line.
+
+This gem can be used to make source code RuboCop-compliant.
 
 ## Installation
 
@@ -27,7 +29,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Remove groups of two more more blank lines in a file with this command:
+```
+RemoveDoubleBlank.update(filename)
+```
+
+
 
 ## Development
 
