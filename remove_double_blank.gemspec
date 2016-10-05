@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors = ['Jason Hsu']
   spec.email = ['rubygems@jasonhsu.com']
 
-  spec.summary = 'GENERIC SUMMARY'
-  spec.description = 'GENERIC DESCRIPTION'
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = 'The RemoveDoubleBlank gem reduces groups of consecutive blank lines into just one blank line.'
+  spec.description = 'This gem can be used to make source code RuboCop-compliant.'
+  spec.homepage = "https://github.com/jhsu802701/remove_double_blank"
   spec.license = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
