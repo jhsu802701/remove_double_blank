@@ -1,5 +1,6 @@
 # RemoveDoubleBlank
 
+[![Gem Version](https://badge.fury.io/rb/remove_double_blank.svg)](https://badge.fury.io/rb/remove_double_blank)
 [![Build Status](https://travis-ci.org/jhsu802701/remove_double_blank.svg?branch=master)](https://travis-ci.org/jhsu802701/remove_double_blank)
 [![Dependency Status](https://gemnasium.com/badges/github.com/jhsu802701/remove_double_blank.svg)](https://gemnasium.com/github.com/jhsu802701/remove_double_blank)
 [![Code Climate](https://codeclimate.com/github/jhsu802701/remove_double_blank/badges/gpa.svg)](https://codeclimate.com/github/jhsu802701/remove_double_blank)
